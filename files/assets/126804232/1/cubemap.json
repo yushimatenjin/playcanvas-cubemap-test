@@ -1,0 +1,14 @@
+{
+    "name": "cubemap",
+    "textures": [
+        "https://pera.faqt.jp/files/assets/66083869/1/bottom.png",
+        "https://pera.faqt.jp/files/assets/66083869/1/bottom.png",
+        "https://pera.faqt.jp/files/assets/66083869/1/bottom.png",
+        "https://pera.faqt.jp/files/assets/66083869/1/bottom.png",
+        "https://pera.faqt.jp/files/assets/66083869/1/bottom.png",
+        "https://pera.faqt.jp/files/assets/66083869/1/bottom.png"
+    ],
+    "minFilter": 5,
+    "magFilter": 1,
+    "anisotropy": 1
+}
